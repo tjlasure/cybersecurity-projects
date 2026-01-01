@@ -1,0 +1,3 @@
+[2025-12-31 19:03:27] ALERT: User 'john' from IP 192.168.1.15 had 3 failed attempts within 10 minutes.
+[2025-12-31 19:03:27] ALERT: User 'mike' from IP 192.168.1.25 had 3 failed attempts within 10 minutes.
+[2025-12-31 19:03:27] ALERT: User 'jane' from IP 192.168.1.20 had 3 failed attempts within 10 minutes.

@@ -1,0 +1,8 @@
+{
+  "threshold": 3,
+  "time_window_minutes": 10,
+  "log_file": "logs/auth.log",
+  "report_file": "logs/suspicious_report.csv",
+  "analyzed_log_file": "logs/analyzed_log.txt",
+  "suspicious_actions": ["login_failed", "unauthorized_access"]
+}

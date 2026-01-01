@@ -1,0 +1,2 @@
+[2025-12-31 19:03:27] Test line with invalid format
+[2025-12-31 19:03:27] Test line with another invalid format

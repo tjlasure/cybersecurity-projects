@@ -1,0 +1,17 @@
+2025-12-31 12:00:01 user=john ip=192.168.1.15 action=login_failed
+2025-12-31 12:01:22 user=jane ip=192.168.1.20 action=login_success
+2025-12-31 12:02:15 user=john ip=192.168.1.15 action=login_failed
+2025-12-31 12:03:30 user=mike ip=192.168.1.25 action=login_failed
+2025-12-31 12:05:10 user=john ip=192.168.1.15 action=login_failed
+2025-12-31 12:06:50 user=jane ip=192.168.1.20 action=login_failed
+2025-12-31 12:08:03 user=john ip=192.168.1.15 action=login_success
+Test line with invalid format
+2025-12-31 12:09:14 user=mike ip=192.168.1.25 action=login_failed
+2025-12-31 12:10:22 user=mike ip=192.168.1.25 action=login_failed
+2025-12-31 12:11:40 user=sara ip=192.168.1.30 action=login_success
+2025-12-31 12:12:55 user=sara ip=192.168.1.30 action=login_failed
+2025-12-31 12:14:12 user=jane ip=192.168.1.20 action=login_failed
+2025-12-31 12:15:33 user=jane ip=192.168.1.20 action=login_failed
+2025-12-31 12:17:01 user=john ip=192.168.1.15 action=login_failed
+2025-12-31 12:18:45 user=mike ip=192.168.1.25 action=login_success
+Test line with another invalid format
