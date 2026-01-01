@@ -2,8 +2,7 @@ Cybersecurity Log Analysis Tool
 
     Overview
 
-        This Python tool analyzes authentication and security logs to detect suspicious activity. It parses logs, aggregates failed login attempts per user/IP, generates CSV reports, prints
-        human-readable summaries, and logs alerts for potentially malicious behavior. It supports configurable thresholds and time windows for detecting unusual activity.
+        This Python tool analyzes authentication and security logs to detect suspicious activity. It parses logs, aggregates failed login attempts per user/IP, generates CSV reports, prints human-readable summaries, and logs alerts for potentially malicious behavior. It supports configurable thresholds and time windows for detecting unusual activity.
 
     Features
 
@@ -78,8 +77,7 @@ Cybersecurity Log Analysis Tool
         Email alerting: Configure SMTP settings in log_analysis.py (currently commented out).
 
     Acknowledgments
-        This project was developed in Python with the support of AI-assisted code suggestions. All design decisions, configuration, debugging, and overall implementation were completed by the
-        developer. AI was used as a productivity tool to help with boilerplate code and structuring, while all core functionality, logic, and testing were implemented manually.
+        This project was developed in Python with the support of AI-assisted code suggestions. All design decisions, configuration, debugging, and overall implementation were completed by the developer. AI was used as a productivity tool to help with boilerplate code and structuring, while all core functionality, logic, and testing were implemented manually.
 
     License
         This project is licensed under the MIT License.
