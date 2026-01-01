@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs (generated at runtime)
+logs/*.txt
+logs/*.log
+
+# CSV reports (generated output)
+*.csv
+
+# Environment / secrets
+.env
+config.local.json
+
+# Temporary files
+*.tmp
+*.swp
