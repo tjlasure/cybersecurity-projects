@@ -1,0 +1,5 @@
+# Password Manager dependencies
+pwinput==1.0.3
+
+# Testing dependencies
+pytest==9.0.2

@@ -1,0 +1,6 @@
+{"timestamp": "2026-01-05T22:38:44.622700+00:00Z", "event": "user_created", "username": "alice", "role": "user", "details": null}
+{"timestamp": "2026-01-05T22:42:22.129276+00:00Z", "event": "unauthorized_admin_action", "username": "alice", "role": "user", "details": "attempted unlock of bob"}
+{"timestamp": "2026-01-05T22:42:22.131505+00:00Z", "event": "user_created", "username": "alice", "role": "user", "details": null}
+{"timestamp": "2026-01-05T22:42:33.677111+00:00Z", "event": "unauthorized_admin_action", "username": "alice", "role": "user", "details": "attempted unlock of bob"}
+{"timestamp": "2026-01-05T22:42:33.679635+00:00Z", "event": "user_created", "username": "alice", "role": "user", "details": null}
+{"timestamp": "2026-01-05T22:48:12.679696+00:00Z", "event": "user_created", "username": "alice", "role": "user", "details": null}
